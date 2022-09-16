@@ -1,6 +1,5 @@
 # street-fighterclass-
 
-THIS IS A PRIVETE PROJECT 
-**DO NOT USE THE SCRATCH PROGRAM WITHOUT MY PERMISION.**
+Do what ever the eff you want with this code idk
 The assets are stolen from **steven-mathew** 
 thank you steven-mathew
